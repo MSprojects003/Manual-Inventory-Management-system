@@ -1,5 +1,6 @@
 # Credentials
-username:admin
+username:admin,
+
 password:123
 
 # Manual Inventory Management System
